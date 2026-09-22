@@ -37,6 +37,7 @@ The model utilizes a three-stage operating block approach to accurately capture 
 *   **Implied Enterprise Value (EV):** ₹54,700.57 Cr
 *   **Implied Equity Value:** ₹54,674.57 Cr
 *   **Shares Outstanding:** 338.20 Cr
+![DCF Valuation Summary](VBL-%20Summary.png)
 
 ## Repository Structure
 *   **`/Model`**: Contains the core `Varun_Beverages_Ltd_DCF.xlsx` file. This includes the income statement build, working capital schedules, DuPont analysis, Altman Z-Score, and the final 10-year cash flow build.
